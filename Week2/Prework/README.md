@@ -38,23 +38,23 @@
 
 4.  **1. Authentication**
     Solicite a los usuarios que se autentiquen solo a cambio de valor, como personalizar la experiencia, acceder a funciones adicionales, comprar contenido o sincronizar datos.
-    
+
     En caso de que sí sea necesario, se debe optar por alguna de las siguientes opciones:
-    
+
     - [Iniciar sesión con Apple](https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple/overview/).
     - Autollenado de contraseña.
     - Retrasar el inicio de sesión el mayor tiempo posible.
     - Explicar los beneficios de la autenticación y cómo suscribirse al servicio.
     - Minimizar la entrada de datos mostrando los teclados apropiados.
     - Siempre que sea posible (usuario ha habilitado la autenticación biométrica) hacer uso de **Face ID y Touch ID**, teniendo en cuenta que se debe tener otro metodo de autenticación alterno (usuario ha deshabilitado la autenticación biométrica)
-    
+
     **IMPORTANTE:** Nunca usar el término **passcode / código de acceso**, Ya que él código de acceso se usa para desbloquear el dispositivo iOS del usuario y autenticar con Apple Pay cuando la autenticación biométrica está desactivada.
 
     **2. Data Entry**
     Para la recoleción de datos debemos cuidar que el proceso no sea tedioso.
     Podemos lograrlo si contemplamos lo siguiente:
 
-            ​ - Presentar opciones cuando sea posible - Obtener la información del sistema siempre que sea posible - Proporcionar valores razonables por defecto - Habilitar el avance solo después de recopilar los valores requeridos - Validar dinámicamente los valores de campo - Requerir valores de campo solo cuando sea necesario. - Facilitar la navegación a través de listas de valores - Muestrar una pista en un campo de texto para ayudar a comunicar el propósito.
+    - Presentar opciones cuando sea posible - Obtener la información del sistema siempre que sea posible - Proporcionar valores razonables por defecto - Habilitar el avance solo después de recopilar los valores requeridos - Validar dinámicamente los valores de campo - Requerir valores de campo solo cuando sea necesario. - Facilitar la navegación a través de listas de valores - Muestrar una pista en un campo de texto para ayudar a comunicar el propósito.
 
     **3. Gestures**
 
