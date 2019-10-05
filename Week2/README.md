@@ -181,3 +181,10 @@ _ejemplo: "ejemplo: btn-Inicio"_
 - Train-Case: Kebab-case iniciado en mayúsculas.
 
 **19. ¿Qué es un IDE y cuáles son sus elementos principales?**
+
+Enrerno de desarrollo Integrado. Un programa destinado al manejo de varios archivos. 
+
+Son multiplataformas. 
+Soportan varios Lenguajes de programación.
+Integran control de versión.
+Integran diferentes Frameworks 
