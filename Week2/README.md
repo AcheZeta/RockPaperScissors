@@ -127,23 +127,57 @@ Tipos de Botones:
 ## 11. Programación orientada a objetos:
 
 12. 1.  **¿Qué es un objeto?**
-        - Un objeto es una colección de propiedades y valores
-        
+
+        Un objeto es una colección de propiedades y valores
+
         2. **¿Qué es una clase?**
-        
+
+        Representan un tipo particular de objetos, con características o comportamiento similiar.
+
         3. **¿Qué es un método?**
+
+        Las acciones que pueden realizar los objetos.
+
         4. **¿Qué es una propiedad?**
+
+        El valor o la característica de un objeto.
 
 ## 13. Arquitectura de diseño MVC
 
-14. ¿Qué es un ViewController?
+[MCV](https://codigofacilito.com/articulos/mvc-model-view-controller-explicado)
+El Modelo vista Controlador es un patrón de diseño de Sofware que utilizando tres componentes (Vistas, Models y controladores) separa la lógica de la vista en una aplicación.
 
-15. ¿Qué es un Storyboard?
+**14. ¿Qué es un ViewController?**
 
-16. ¿Qué es un IBAction?
+Recibe las ordenes de los usuarios y solicita los datos para comunicarlos a la vista.
 
-17. ¿Qué es un IBOutlet?
+**15. ¿Qué es un Storyboard?**
 
-18. ¿Qué es la notación CamelCase y cuáles son sus tipos? ¿Conoces otro tipo de notación?
+Es la organización gráfica que provee la visión general que llevará el desarrollo.  
+**16. ¿Qué es un IBAction?**
 
-19. ¿Qué es un IDE y cuáles son sus elementos principales?
+_IB_ Significa _Interface Builder_, Son conexiones que permiten la interacción entre los componentes (Por ejemplo un botón).
+
+**17. ¿Qué es un IBOutlet?**
+
+Es una conexión desde un componente a una propiedad en un controlador.
+
+**18. ¿Qué es la notación CamelCase y cuáles son sus tipos? ¿Conoces otro tipo de notación?**
+
+Es una convención de codificación.
+
+Existen dos tipos de CamelCase:
+
+- _UpperCamelCase_, cuando la primera letra de cada una de las palabras es mayúscula. _ejemplo: BtnInicio_
+
+- _lowerCamelCase_, igual que la anterior con la excepción de que la primera letra es minúscula. _ejemplo: btnInicio_
+
+Otros:
+
+- snake_case: Separados por guión bajo.
+  ejemplo: btn_Inicio"
+- Kebab-case: Separados por guión medio.
+_ejemplo: "ejemplo: btn-Inicio"_
+- Train-Case: Kebab-case iniciado en mayúsculas.
+
+**19. ¿Qué es un IDE y cuáles son sus elementos principales?**
