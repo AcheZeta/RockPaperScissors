@@ -59,18 +59,19 @@
     **3. Gestures**
 
     Como regla general, debemos usar gestos estándar, a menos que nuestra aplicación sea un juego no tendríamos que reinventar el uso de los gestos que ya son un "estandar"
-    ​
-    | GESTO | DESCRIPCION |
-    | -------- | ----------- |
-    | Tap | Activa un control o selecciona un elemento |
-    | Drag | Mueve un elemento de lado a lado o arrastra un elemento por la pantalla |
-    | Flick | Se desplaza o se desplaza rápidamente |
-    | Swipe | Cuando se realiza con un dedo, vuelve a la pantalla anterior, revela la vista oculta en un controlador de vista dividida, revela el botón Eliminar en una fila de vista de tabla o revela acciones en un vistazo. Cuando se realiza con cuatro dedos en un iPad, cambia entre aplicaciones |
-    | Double tap| Acerca y centra el contenido o una imagen, o aleja el zoom si ya lo hizo |
-    | Pinch | Se acerca cuando se pellizca hacia afuera, se aleja cuando se pellizca hacia adentro |
-    | Touch and hold | Cuando se realiza en texto editable o seleccionable, muestra una vista ampliada para el posicionamiento del cursor. Cuando se realiza en ciertas vistas, como una vista de colección, ingresa a un modo que permite reorganizar los elementos |
-    | Shake | Inicia deshacer o rehacer |
-    | Rotate | Rota una imagen o vista |
+
+    | GESTO          | DESCRIPCION                                                                                                                                                                                                                                                                                |
+    | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+    | Tap            | Activa un control o selecciona un elemento                                                                                                                                                                                                                                                 |
+    | Drag           | Mueve un elemento de lado a lado o arrastra un elemento por la pantalla                                                                                                                                                                                                                    |
+    | Flick          | Se desplaza o se desplaza rápidamente                                                                                                                                                                                                                                                      |
+    | Swipe          | Cuando se realiza con un dedo, vuelve a la pantalla anterior, revela la vista oculta en un controlador de vista dividida, revela el botón Eliminar en una fila de vista de tabla o revela acciones en un vistazo. Cuando se realiza con cuatro dedos en un iPad, cambia entre aplicaciones |
+    | Double tap     | Acerca y centra el contenido o una imagen, o aleja el zoom si ya lo hizo                                                                                                                                                                                                                   |
+    | Pinch          | Se acerca cuando se pellizca hacia afuera, se aleja cuando se pellizca hacia adentro                                                                                                                                                                                                       |
+    | Touch and hold | Cuando se realiza en texto editable o seleccionable, muestra una vista ampliada para el posicionamiento del cursor. Cuando se realiza en ciertas vistas, como una vista de colección, ingresa a un modo que permite reorganizar los elementos                                              |
+    | Shake          | Inicia deshacer o rehacer                                                                                                                                                                                                                                                                  |
+    | Rotate         | Rota una imagen o vista                                                                                                                                                                                                                                                                    |
+
     ​
     _No interferir con los gestos del borde de la pantalla en todo el sistema._
     ​
